@@ -8,6 +8,7 @@ A comprehensive real-time weather monitoring application that collects, analyzes
 - **Daily Summary Rollups**: Generates average, maximum, and minimum temperatures, and determines the dominant weather condition each day.
 - **Configurable Alerts**: Define thresholds for temperature or specific weather conditions to receive notifications when these limits are exceeded.
 - **Data Visualization**: Visualizes weather summaries and alerts, making it easy to track trends and respond to changes.
+![image](https://github.com/user-attachments/assets/136fe7c1-9f94-416b-811e-0446372df189)
 
 
 ### ⚙️ Technologies Used
@@ -16,6 +17,7 @@ A comprehensive real-time weather monitoring application that collects, analyzes
 - **Requests**: Handles API interactions with OpenWeatherMap.
 - **Matplotlib**: Used for intuitive and customizable data visualization.
 
+![image](https://github.com/user-attachments/assets/e1f7d63d-58cd-4c00-a9dc-160635c83360)
 
 ### 🚀 Quickstart Guide
 
@@ -72,6 +74,7 @@ Edit `config.json` to customize intervals and thresholds:
 #### 📊 Data Visualization
 - **Historical Weather Trends**: View trends and patterns across days.
 - **Alerts Overview**: Track when and where specific conditions triggered alerts.
+![image](https://github.com/user-attachments/assets/90166bf0-2540-42b4-9a26-83d5adbe4b43)
 
 
 ### 🧪 Testing Guide
