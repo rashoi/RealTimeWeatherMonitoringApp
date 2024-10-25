@@ -21,7 +21,7 @@ A comprehensive real-time weather monitoring application that collects, analyzes
 
 #### 1. Clone & Navigate
 ```bash
-git clone https://github.com/yourusername/Real-Time-Weather-Monitoring.git
+git clone https://github.com/rashoi/RealTimeWeatherMonitoringApp
 cd Real-Time-Weather-Monitoring
 ```
 
